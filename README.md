@@ -36,24 +36,7 @@ Le programme fonctionne **en ligne de commande**, en lisant des instructions sai
 
 - `main.c` : fichier source principal
 - `README.md` : ce fichier
-- `.gitignore` : ignore les fichiers binaires et objets
 - `LICENSE` : licence MIT
-
----
-
-## 🛠️ Compilation et exécution
-
-### 📦 Compilation
-```bash
-gcc main.c -o absences
-```
-
-### ▶️ Exécution
-```bash
-./absences
-```
-
-Lancez ensuite vos commandes directement dans le terminal (exemples dans le sujet de la SAE).
 
 ---
 
@@ -98,4 +81,3 @@ Réalisé par **Neal Giustignano**, étudiant en BUT Informatique.
 ## 🔗 Liens utiles
 
 - Sujet de la SAE : [voir le PDF du sujet](./sujet-s1.pdf)
-- Ressources C standard : [cppreference](https://en.cppreference.com/w/c)
