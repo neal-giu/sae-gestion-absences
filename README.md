@@ -97,5 +97,5 @@ Réalisé par **Neal Giustignano**, étudiant en BUT Informatique.
 
 ## 🔗 Liens utiles
 
-- Sujet de la SAE : [voir le PDF du sujet](./sujet.pdf)
+- Sujet de la SAE : [voir le PDF du sujet](./sujet-s1.pdf)
 - Ressources C standard : [cppreference](https://en.cppreference.com/w/c)
